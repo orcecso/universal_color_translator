@@ -1,0 +1,35 @@
+# Dart package files
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Flutter specific files
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/.gradle/
+android/app/src/main/.externalNativeBuild/
+
+# Generated files
+flutter_export_environment.sh
+*.iml
+*.h
+*.lock
+*.log
+*.bin
+*.swp
+
+# macOS specific files
+.DS_Store
+
+# IntelliJ and Android Studio
+.idea/
+*.ipr
+*.iws
+*.launch
